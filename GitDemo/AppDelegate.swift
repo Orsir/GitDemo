@@ -17,6 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
        
         print("Hello World!")
         print("Hi")
+        print("Swift")
         return true
     }
 
